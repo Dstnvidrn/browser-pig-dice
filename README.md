@@ -6,5 +6,6 @@ Object of the game:
     At any point in your turn, you can hold points, which will set your score and ending your turn.
     Failing to 'hold' and rolling '1' will not save points for the current round. First player to 100 wins
     
-    ![image](https://user-images.githubusercontent.com/75099373/161394074-78465370-ff05-4696-aae6-bc24e7a21efb.png)
+    
 
+![pig-dice](https://user-images.githubusercontent.com/75099373/161394250-0fa94757-5822-4048-abd5-43c999f32464.PNG)
