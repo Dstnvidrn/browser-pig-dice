@@ -1,4 +1,5 @@
 # browser-dice
+https://pigdice-km.netlify.app
 In-browser dice game.
 Object of the game:
     Each player will roll dice trying to reach a score of 100.
